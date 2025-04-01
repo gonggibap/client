@@ -84,7 +84,6 @@ ___
 
 # 💻 화면 소개
 
-<details>
  <summary>📢 페이지 상세설명</summary>
  <div markdonw="1">
 
@@ -114,7 +113,6 @@ ___
 
 
  </div>
-</details>
 
 
 # 🛠 기술 스택
